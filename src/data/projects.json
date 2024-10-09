@@ -1,6 +1,6 @@
 [
   {
-    "title": "Project A",
+    "title": "FrugalU Student Budget Manager",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
@@ -8,7 +8,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Informr Social Media Application",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
@@ -16,7 +16,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Subscription Manager",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],

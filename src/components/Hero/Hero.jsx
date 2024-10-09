@@ -6,10 +6,10 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Chase!</h1>
+        <h1 className={styles.title}>Hi, I'm Chase</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with experience in several modern
-          frameworks and tools!
+          I'm a full-stack developer with a passion for technology and bringing
+          code to life!
         </p>
         <a href="mailto:cmo23006@gmail.com" className={styles.contactBtn}>
           Contact Me

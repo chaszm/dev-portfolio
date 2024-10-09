@@ -8,23 +8,43 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/figma.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "ASP.NET",
+    "imageSrc": "skills/figma.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Next.js",
+    "imageSrc": "skills/figma.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
   }
 ]
