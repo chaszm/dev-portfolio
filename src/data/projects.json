@@ -2,18 +2,17 @@
   {
     "title": "FrugalU Student Budget Manager",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Mobile application focused on helping students create a budget and manage expenses",
+    "skills": ["React Native", "Javascript", "Node.js", "Firebase"],
+    "source": "https://github.com/INDY12-College-Resource-App/FrugalUApp"
   },
   {
     "title": "Informr Social Media Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Intuitive social media application where users share ideas through posts and can join diverse communities",
+    "skills": ["Next.js", "React", "MongoDB", "TypeScript"],
+    "demo": "https://informr-i09qsf24b-chaszms-projects.vercel.app/",
+    "source": "https://github.com/chaszm/informr"
   },
   {
     "title": "Subscription Manager",
@@ -21,6 +20,6 @@
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/chaszm/SubscriptionManager"
   }
 ]

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.svg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.svg"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/mysql-icon.svg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.svg"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript-icon.svg"
+  },
+
+  {
+    "title": "C#",
+    "imageSrc": "skills/c-sharp.svg"
+  }
+]

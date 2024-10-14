@@ -1,43 +1,15 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "Python",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "Java",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "C#",
-    "imageSrc": "skills/figma.png"
-  },
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "ASP.NET",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/dotnet.svg"
   },
   {
     "title": "Next.js",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/nextjs-icon.svg"
   },
   {
     "title": "MongoDB",
@@ -46,5 +18,13 @@
   {
     "title": "Node.js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwindcss-icon.svg"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.svg"
   }
 ]
