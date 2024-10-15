@@ -1,25 +1,26 @@
 [
   {
-    "title": "FrugalU Student Budget Manager",
-    "imageSrc": "projects/project.png",
-    "description": "Mobile application focused on helping students create a budget and manage expenses",
-    "skills": ["React Native", "Javascript", "Node.js", "Firebase"],
-    "source": "https://github.com/INDY12-College-Resource-App/FrugalUApp"
-  },
-  {
-    "title": "Informr Social Media Application",
-    "imageSrc": "projects/project.png",
-    "description": "Intuitive social media application where users share ideas through posts and can join diverse communities",
+    "title": "Informr Social",
+    "imageSrc": "projects/inf2.PNG",
+    "description": "Social media application where users share ideas through posts and can join diverse communities to connect",
     "skills": ["Next.js", "React", "MongoDB", "TypeScript"],
     "demo": "https://informr-i09qsf24b-chaszms-projects.vercel.app/",
     "source": "https://github.com/chaszm/informr"
   },
   {
-    "title": "Subscription Manager",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Subscription Tracker",
+    "imageSrc": "projects/new3.PNG",
+    "description": "Simple web application with a variety of tools to quickly and efficiently track subscription information",
+    "skills": ["C#", "SQL", ".NET", "Bootstrap"],
+    "demo": "",
     "source": "https://github.com/chaszm/SubscriptionManager"
+  },
+  {
+    "title": "FrugalU Student Budget Manager",
+    "imageSrc": "projects/new1.PNG",
+    "description": "Finance manager focused on helping students create a personalized budget plan and manage expenses",
+    "skills": ["React Native", "Javascript", "Node.js", "Firebase"],
+    "demo": "",
+    "source": "https://github.com/INDY12-College-Resource-App/FrugalUApp"
   }
 ]
