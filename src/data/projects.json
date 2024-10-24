@@ -2,7 +2,7 @@
   {
     "title": "Informr Social",
     "imageSrc": "projects/inf2.PNG",
-    "description": "Social media application where users share ideas through posts and can join diverse communities to connect",
+    "description": "Social media application that allows users to share their ideas and engage with one another through posts and can form communities with individuals that share their interests",
     "skills": ["Next.js", "React", "MongoDB", "TypeScript"],
     "demo": "https://informr-i09qsf24b-chaszms-projects.vercel.app/",
     "source": "https://github.com/chaszm/informr"
@@ -10,7 +10,7 @@
   {
     "title": "Subscription Tracker",
     "imageSrc": "projects/new3.PNG",
-    "description": "Simple web application with a variety of tools to quickly and efficiently track subscription information",
+    "description": "Simple web application with a variety of tools to efficiently track and organize subscription information",
     "skills": ["C#", "SQL", ".NET", "Bootstrap"],
     "demo": "",
     "source": "https://github.com/chaszm/SubscriptionManager"
@@ -18,8 +18,14 @@
   {
     "title": "FrugalU Student Budget Manager",
     "imageSrc": "projects/new1.PNG",
-    "description": "Finance manager focused on helping students create a personalized budget plan and manage expenses",
-    "skills": ["React Native", "Javascript", "Node.js", "Firebase"],
+    "description": "Mobile application designed to assist students in creating personalized budget plans and tracking expenses across multiple categories, while also offering essential financial management tools",
+    "skills": [
+      "React Native",
+      "Javascript",
+      "Node.js",
+      "Typescript",
+      "Firebase"
+    ],
     "demo": "",
     "source": "https://github.com/INDY12-College-Resource-App/FrugalUApp"
   }

@@ -26,5 +26,9 @@
   {
     "title": "Bootstrap",
     "imageSrc": "skills/bootstrap.svg"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker-icon.svg"
   }
 ]
