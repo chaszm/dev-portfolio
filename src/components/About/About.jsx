@@ -16,14 +16,23 @@ export const About = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Background</h3>
-              <p>Recent Computer Science graduate that loves working with </p>
+              <p>
+                Recent graduate with a B.S. in Computer Science. I took my first
+                programming course at 16 years old and have always had an
+                interest in software development.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Full-Stack Development</h3>
-              <p>I am an experei</p>
+              <p>
+                I work with both front-end and back-end software and have a
+                focus on full-stack development. I enjoy having control of the
+                user experience and being familiar with the back-end
+                architecture during the development of projects.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -31,9 +40,11 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Passion for Technology</h3>
               <p>
-                Always eager about and up-to-date on the newest frameworks and
-                tools and I am eager to apply my skills and knowledge to make a
-                meaningful impact
+                Enthusiastic about attending computing events such as hackathons
+                and have been part of several coding/tech clubs. I am constantly
+                exploring the latest frameworks and tools used in software
+                development, with a desire to apply my skills to impactful,
+                real-world projects.
               </p>
             </div>
           </li>
