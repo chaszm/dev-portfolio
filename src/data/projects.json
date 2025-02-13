@@ -3,7 +3,7 @@
     "title": "Informr Social",
     "imageSrc": "projects/inf2.PNG",
     "description": "Social media application that allows users to share their ideas and engage with one another through posts and can form communities with individuals that share their interests",
-    "skills": ["Next.js", "React", "MongoDB", "TypeScript"],
+    "skills": ["Next.js", "React", "MongoDB"],
     "demo": "https://informr-i09qsf24b-chaszms-projects.vercel.app/",
     "source": "https://github.com/chaszm/informr"
   },
@@ -23,7 +23,6 @@
       "React Native",
       "Javascript",
       "Node.js",
-      "Typescript",
       "Firebase"
     ],
     "demo": "",
